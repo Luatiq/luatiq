@@ -4,4 +4,4 @@ My favourite frameworks are [Symfony](https://symfony.com/) & [Vue](https://vuej
 <br/>
 My pronouns are she/her.
 
-![](https://raw.githubusercontent.com/luatiq/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/luatiq/github-stats/master/generated/overview.svg#luatic-mode-only)
