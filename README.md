@@ -1,6 +1,6 @@
 ### Bing bong!
 
-My favourite frameworks are ![Symfony](https://symfony.com/) & ![Vue](https://vuejs.org/).
+My favourite frameworks are [Symfony](https://symfony.com/) & [Vue](https://vuejs.org/).
 <br/>
 My pronouns are she/her.
 
