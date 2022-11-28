@@ -1,5 +1,7 @@
-### Bing bong
+### Bing bong!
 
-Fav frameworks: Symfony & Vue
+My favourite frameworks are ![Symfony](https://symfony.com/) & ![Vue](https://vuejs.org/).
 <br/>
-Pronouns: she/her
+My pronouns are she/her.
+
+![](https://raw.githubusercontent.com/luatiq/github-stats/master/generated/overview.svg#gh-dark-mode-only)
